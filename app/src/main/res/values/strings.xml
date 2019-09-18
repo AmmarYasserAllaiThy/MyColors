@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Colors</string>
+    <string name="theme">Theme</string>
+    <string name="save">Name your favorite color!</string>
+    <string name="save_color">Save Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="hex_validate">[\\dA-Fa-f]{6}</string>
+
+    <string name="RED">238</string>
+    <string name="GREEN">238</string>
+    <string name="BLUE">238</string>
+    <string name="HEX">EEEEEE</string>
+    <string name="color">color</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
